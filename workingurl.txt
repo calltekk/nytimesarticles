@@ -1,0 +1,2 @@
+http://api.nytimes.com/svc/search/v2/articlesearch.json?q=Obama&api-key=2jeCG4nTgRGVYjEUMKUQlii3nM0EP9Ux
+http://api.nytimes.com/svc/search/v2/articlesearch.json?q=Obama&begin_date=20040101&end_date=20060101&api-key=2jeCG4nTgRGVYjEUMKUQlii3nM0EP9Ux
